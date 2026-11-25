@@ -3,10 +3,16 @@
 ## index.html -- kezdolap
 
 Temekek
-kosar
+kosar stb.
 
-Index.html      --- 
+Index.html      --- Tibor,
+Index.css
 
-Termék oldal    --- 
- 
-Design          --- 
+
+Termék oldal    --- Bálint, 
+Termék oldal.css
+
+Termékek odala  --- Dominik,
+Termék oldala.css
+
+Néző            --- Gergő :>
